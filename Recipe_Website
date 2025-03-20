@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+
+<html lang="en">
+
+<head>
+  <title>Fufu and Palm nut Soup Recipe</title>
+  <meta charset="UTF-8">
+  </head>
+
+<body>
+
+  <h1>Fufu & Palm Nut Soup Recipe</h1>
+
+  <p>Welcome to my page that provides a detailed recipe on how to make the popular Ghanaian dish of Fufu with Palm Nut Soup. This is loved by Akans and all ghanaians.</p>
+
+  <img src="https://cdn.modernghana.com/content__/640/457/1126201722128_abenkwan.png" alt="fufu with palm nut soup served in an earthen ware bowl">
+
+  <h2>Ingredients</h2>
+    <ul>
+      <li>Cassava</li>
+      <li>Plantain</li>
+      <li>Palm Nut</li>
+      <li>Fish</li>
+      <li>Tomato</li>
+      <li>Pepper</li>
+      <li>Onion</li>
+      <li>Salt</li>
+      </ul>
+  
+   <h2>Instructions</h2>
+    <ol>
+      <li>Peel cassava and plantain and bring to boil</li>
+      <li>Wash the palm nuts and boil it for about 45 minutes</li>
+      <li>Wash the meat and fish with clean water and get it ready for the food</li>
+      <li>Blend the ginger, onion, pepper, garlic and add the fish to the pot</li>
+      <li>Crumble the cube spice over the pot and add salt</li>
+      <li>Steam the mixture for about 4-6 minutes</li>
+      </ol>
+</body>
+</html>
